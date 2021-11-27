@@ -13,3 +13,7 @@ See [SparkFun_MPU-9250-DMP_Arduino_Library-master](https://github.com/TKUICLab-h
 ## FlashStorage Library
 
 See [FlashStorage](https://github.com/TKUICLab-humanoid/FlashStorage) repository.
+
+
+
+********Razor_IMU_gyro is new IMU code , Razor_IMU is old IMU code,so please use Razor_IMU_gyro********
